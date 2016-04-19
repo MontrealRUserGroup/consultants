@@ -1,0 +1,7 @@
+If you would like to add your name to this list, please send us a [[https://github.com/MontrealRUserGroup/consultants/edit/master/README.org][Pull
+Request]].
+
+| Name               | Contact           | Expertise                                                   |
+|--------------------+-------------------+-------------------------------------------------------------|
+| [[http://tdhock.github.io/][Toby Dylan Hocking]] | tdhock5@gmail.com | Machine learning, data visualization, R package development |
+|                    |                   |                                                             |
