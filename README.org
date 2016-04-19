@@ -4,4 +4,5 @@ Request]].
 | Name               | Contact           | Expertise                                                   |
 |--------------------+-------------------+-------------------------------------------------------------|
 | [[http://tdhock.github.io/][Toby Dylan Hocking]] | tdhock5@gmail.com | Machine learning, data visualization, R package development |
+| [[http://vonalytics.com/][Vaughn DiMarco]] | v@vonalytics.com | Data science and engineering applied growth and business problems |
 |                    |                   |                                                             |
